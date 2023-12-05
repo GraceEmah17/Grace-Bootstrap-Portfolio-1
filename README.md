@@ -40,4 +40,4 @@ Link to repo
 [link to repo heriseon-code-refactor](https://github.com/GraceEmah17/Horiseon-code-refactor-project2.git)
 
 Mock-up of website
-<img src= "images/images/webpage-screenshot.png.jpg" alt= "screenshot of webpage, that contains image of me, nav bar, contact info">
+![screenshot of webpage, that contains image of me, nav bar, contact info](images/webpage-screenshot.png)
