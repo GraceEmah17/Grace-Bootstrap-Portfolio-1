@@ -1,0 +1,236 @@
+/* Large devices (laptops/desktops, 992px and up) */
+@media only screen and (max-width: 1199px) {
+    
+.padd{
+	padding: 10px 90px;
+}
+.navbar li{
+	padding-right: 20px;
+}
+.logo{
+    width: 20%;
+}
+.navbar{
+    width: 80%;
+}
+.mainrow{
+	padding: 70px 90px;
+}
+.album {
+    padding: 100px 90px;
+    padding-bottom: 50px;
+  }
+  .align-items-center {
+    padding-top: 10px;
+    padding-bottom: 100px;
+  }
+  .footer{
+    padding: 60px 90px;
+  }
+
+
+
+
+}
+
+
+
+/* Medium devices (landscape tablets, 768px and up) */
+@media only screen and (max-width: 991px) {
+  .butt{
+    padding: 10px;
+  }
+    .download {
+        display: none;
+      }    
+      .padd{
+          padding: 7px 40px;
+          align-items: baseline;
+      }
+      .navbar{
+        justify-content: right;
+        text-align: right;
+        padding-right: 0px;
+      }
+      .navbar span{
+        background-color: #f8f9fa;
+      }
+      .navbar span:hover{
+        background-color: #f8f9fa;
+      }
+      .navbar .container{
+        justify-content: right;
+      }
+      .navbar li{
+        padding-top: 20px;
+        line-height: 5px;
+      }
+      .mainrow{
+          padding: 50px 40px;
+      }
+      .main{
+        width: 50%;
+      }
+      .main_img{
+        width: 50%;
+      }
+      .main h1{
+          font-size: 30px;
+      }
+      .main h1 span{
+          font-size: 30px;
+          padding: 1px 5px;
+      }
+      .main h6{
+          font-size: 15px;
+      }
+      .main_img img{
+          width: 88%;
+      }
+      .album {
+        padding: 70px 40px;
+      }
+      .about_padd{
+        padding-left: 0px;
+      }
+      .card img {
+        height: 200px;
+      }
+      .album h1 {
+        font-size: 2.2rem;
+        margin-bottom: 25px;
+      }
+      .h5, h5 {
+        font-size: 1.2rem;
+      }
+      .profile-text h2 {
+        font-size: 2.2rem;
+      }
+      .profile-text h3 {
+        font-size: 22px;
+      }
+      .profile-text p {
+        font-size: 15px;
+      }
+      .footer{
+          padding: 60px;
+          font-size: 14px;
+          font-weight: 600;
+      }
+      .flogo{
+          padding-right: 30px;
+          text-align: justify;
+          width: 50%;
+      }
+      .flogo2 img{
+          width: 40%;
+          height: auto;
+      }
+      .logo-text{
+          font-size: 15px;
+          margin-top: 18px;
+      }
+      .logo-text small{
+          font-size: 13px;
+      }
+      .logo-text span{
+          margin-bottom: 5px;
+      }
+      .social{
+          margin-top: 10px;
+      }
+      .social a{
+          font-size: 18px;
+          padding-right: 8px;
+      }
+      .social a:hover{
+          font-size: 18px;
+          padding-right: 8px;
+      }
+      .useful1{
+          padding-right: 10px;
+          display: none;
+          width: 20%;
+      }
+      .useful3{
+          padding-right: 10px;
+          width: 20%;
+      }
+      .useful4{
+          padding-right: 10px;
+      }
+      .useful2{
+          display: block;
+          width: 50%;
+      }
+      .useful{
+          font-size: 14px;
+          margin-top: 20px;
+      }
+      .our{
+          font-size: 13px;
+          margin-top: 15px;
+          text-align: justify;
+      }
+      .our li{
+          padding-bottom: 15px;
+      }
+      .our i{
+          font-size: 15px;
+          padding-right: 0px;;
+      }
+}
+
+
+/* Extra small devices (phones, 450px and up*/
+@media only screen and (max-width: 767px) {
+  .main {
+    width: 100%;
+    text-align: center;
+    align-items: center;
+    padding-bottom: 70px;
+  }
+  
+.logo{
+  width: 30%;
+}
+.navbar{
+  width: 70%;
+}
+  .main small{
+    text-align: center;
+  } 
+  .main_img {
+    width: 100%;
+  } 
+  .main_img img{
+    width: 100%;
+  }
+  .profile-text{
+    text-align: center;
+    padding-bottom: 60px;
+  }
+  .profile-text h3 {
+    text-align: center;
+  }
+  .profile-text p {
+    text-align: center;
+  }
+  .flogo {
+    text-align: center;
+    width: 100%;
+  }
+  .useful2 {
+    width: 100%;
+    text-align: center;
+  }
+  .connect {
+    padding-top: 12px;
+  }
+  .our{
+    text-align: center;
+  }
+  .our li{
+    padding-bottom: 3px;
+  }
+}

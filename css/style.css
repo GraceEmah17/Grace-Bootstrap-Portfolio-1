@@ -97,4 +97,231 @@ body{
 	padding: 5px 10px;
 	font-size: 16px;
 	border-radius: 4px;
+} more a{
+	color: #fff;
+	text-decoration: none;
+	font-family: robom;
+}
+.get a{
+	color: #222222;
+}
+.get{
+	background-color: #e9e8e8;
+}
+.profit_col{
+	background-color: #f8f9fa;
+	padding: 30px 150px;
+	display: flex;
+	justify-content: space-between;
+	margin: 30px 0px;
+	margin-bottom: 150px;
+}
+.profit_col li{
+	font-size: 35px;
+	list-style: none;
+}
+.profit{
+	font-family: robom;
+	text-align: center;
+}
+.profit i{
+	font-size: 25px;
+	color: #ff0077;
+}
+.profit h4{
+	color: #140044;
+}
+.time{
+	font-size: 13px;
+	margin-top: -10px;
+}
+.line{
+	background-color: #cccccc;
+	height: 20px;
+}
+
+
+
+/* Additional Styles */
+    /* Customize as needed */
+
+	.container h1{
+		font-family: robom;
+		color: #151a1f;
+	}
+
+    .album {
+		padding: 100px 130px;
+		background-color: #f8f9fa;
+	  }
+	  .album a{
+		text-decoration: none;
+	  }
+  
+	  .album h1 {
+		font-size: 2.5rem;
+		font-weight: bold;
+		text-align: center;
+		margin-bottom: 50px;
+	  }
+  
+	  .card {
+		margin-bottom: 30px;
+		border: none;
+		transition: transform 0.3s;
+	  }
+	  .card h5{
+		font-family: robom;
+		color: #151a1f;
+	  }
+	  .card p{
+		font-family: robol;
+		color: #151a1f;
+		display: -webkit-box;
+		overflow: hidden;
+		line-clamp: 3;
+		-webkit-box-orient: vertical;
+		-webkit-line-clamp: 3;
+	  }
+	  .card img{
+		width: 100%;
+		height: 300px;
+		object-fit: cover;
+	  }
+  
+	  .card:hover {
+		transform: scale(1.05);
+	  }
+
+	  .align-items-center{
+		padding-top: 120px;
+	  }
+	  .profile-pics{
+		padding-right: 30px;
+	  }
+	  .profile-pics img{
+		width: 80%;
+	  }
+	  .profile-text h2{
+		font-family: robob;
+		font-size: 40px;
+	  }
+	  .profile-text h3{
+		text-align: left;
+		font-family: robom;
+		font-size: 25px;
+		color: #ff0077;
+	  }
+	  .profile-text p{
+		text-align: left;
+		font-family: robol;
+		font-size: 17px;
+		text-align: justify;
+	  }
+	  .skills{
+		padding-top: 70px;
+	  }
+
+
+	  
+.footer{
+	background-color: #151a1f;
+	padding: 100px;
+	color: #fff;
+	font-size: 18px;
+	font-weight: 600;
+	margin-top: 150px;
+}
+.flogo{
+	display: flex;
+	flex-direction: column;
+	padding-right: 70px;
+}
+.flogo2{
+	color: #ff0077;
+}
+.connect{
+	color: #ff0077;
+}
+
+.flogo2 img{
+	width: 42%;
+	height: auto;
+}
+.logo-text{
+	display: flex;
+	flex-direction: column;
+	font-size: 17px;
+	font-weight: 400;
+	margin-top: 20px;
+}
+.logo-text small{
+	font-size: 14px;
+	font-weight: 300;
+	letter-spacing: 0.3px;
+}
+.logo-text span{
+	margin-bottom: 5px;
+}
+.social{
+	margin-top: 10px;
+}
+.social a{
+	color: #ff0077;
+	font-size: 22px;
+	padding-right: 8px;
+}
+.social a:hover{
+	color: #c2c2c2;
+	font-size: 22px;
+	padding-right: 8px;
+	transition: 1s;
+}
+.useful1{
+	padding-right: 10px;
+}
+.useful{
+	font-size: 14px;
+	font-weight: 300;
+	margin-top: 20px;
+}
+.useful ul{
+	padding: 0px;
+}
+.useful a{
+	color: #fff;
+	transition: 1.5s;
+}
+.useful a:hover{
+	color: #ff0077;
+	transition: 1s;
+}
+.useful li{
+	list-style: circle;
+	padding-bottom: 10px;
+	color: #ff0077;
+}
+.useful li:hover{
+	color: #fff;
+	transition: 1s;
+}
+.useful2{
+	padding-right: 0px;
+}
+.our{
+	font-size: 15px;
+	font-weight: 400;
+	margin-top: 20px;
+	letter-spacing: 0.5px
+}
+.our ul{
+	padding: 0px;
+}
+.our li{
+	list-style-type: none;
+	padding-bottom: 15px;
+}
+.our i{
+	font-size: 18px;
+	padding-right: 5px;
 }
