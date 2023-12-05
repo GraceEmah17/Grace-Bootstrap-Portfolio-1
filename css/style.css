@@ -1,0 +1,28 @@
+@import url('fonts.css');
+/************ index ***********/
+body{
+	padding: 0px;
+	margin: 0px;
+	font-family: robol;
+}
+.logo{
+	font-family: robom;
+}
+.padd{
+	display: flex;
+	align-items: center;
+	padding: 10px 130px;
+	background-color: #f8f9fa;
+}
+.navbar{
+	display: flex;
+}
+.navbar a{
+	font-size: 15px;
+	color: #4b4b4b;
+	text-decoration: none;
+}
+.navbar a:hover{
+	color: #ff0077;
+	transition: 0.5s;
+}
